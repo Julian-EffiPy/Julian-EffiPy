@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julian Beese, co-Founder of EffiPy
 - 👀 I’m interested in artificial intelligence, machine learning, process automatization
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on process automatization
 - 📫 How to reach me: julian.beese@effipy.de
 - ⚡ Fun fact: Loving to take pictures, see on: www.beesebilder.de
